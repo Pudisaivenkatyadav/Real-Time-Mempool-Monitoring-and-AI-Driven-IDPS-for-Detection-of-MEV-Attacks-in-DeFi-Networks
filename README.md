@@ -1,0 +1,2 @@
+# Real-Time-Mempool-Monitoring-and-AI-Driven-IDPS-for-Detection-of-MEV-Attacks-in-DeFi-Networks
+This project develops a real-time AI-driven Intrusion Detection and Prevention System (IDPS) to detect and mitigate MEV attacks in DeFi. It monitors the mempool, uses machine learning and stateful analysis to identify malicious patterns, and responds within milliseconds to protect users and ensure fair blockchain transactions.
